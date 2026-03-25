@@ -1,0 +1,30 @@
+*{margin: 0;font-family: tf2;}
+
+h1 , h2 , h3 {text-align: center;color: rgb(24, 24, 24); outline: white; text-shadow:
+        -1px -1px 0 rgb(255, 255, 255),  
+         1px -1px 0 rgb(255, 255, 255),
+        -1px  1px 0 rgb(255, 255, 255),
+         1px  1px 0 rgb(255, 255, 255); }
+
+
+body {background-image: url(download2.png);background-position:top;background-size: cover;background-repeat: no-repeat;}
+
+.msg {border: 5px;background-color: rgba(255, 255, 255, 0.359);border-radius: 10px; margin-left: 200px; margin-right: 200px;border: solid gray; padding: 10px;}
+.msg:hover {scale: 1.1;}
+
+
+nav {background-color: transparent; filter: blur(8px);-webkit-filter: blur(8px);border-color: gray; border: solid; margin: 0px;}
+
+img {margin-left: 700px;}
+img:hover {scale: 1.2;}
+
+#kiko {scale: 0.7; border-radius: 10px; margin-left: 500px;}
+#kiko:hover {scale: 0.8;}
+
+
+
+
+
+@font-face {
+    font-family: tf2;
+    src: url(tf2build.ttf);}
