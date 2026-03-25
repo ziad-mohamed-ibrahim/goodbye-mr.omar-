@@ -18,7 +18,7 @@ nav {background-color: transparent; filter: blur(8px);-webkit-filter: blur(8px);
 img {margin-left: 700px;}
 img:hover {scale: 1.2;}
 
-#kiko {scale: 0.7; border-radius: 10px; margin-left: 500px;}
+#kiko {scale: 0.7; border-radius: 10px; margin-left: 500px; border-color:gray; border: solid}
 #kiko:hover {scale: 0.8;}
 
 
